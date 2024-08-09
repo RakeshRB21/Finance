@@ -1,0 +1,1 @@
+pip install streamlit yfinance plotly requests pandas newsapi-python nltk groq scikit-learn
